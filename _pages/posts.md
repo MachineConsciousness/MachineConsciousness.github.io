@@ -3,7 +3,7 @@ layout: splash
 title: "DI²Lab Blogs"
 permalink: /posts/
 header:
-  overlay_image: "https://tiansuya.github.io/DI2Lab/assets/home-1.jpg"  # 可以使用实验室相关的头图
+  overlay_image: "https://MachineConsciousness.github.io/assets/home-1.jpg"  # 可以使用实验室相关的头图
   caption: "Welcome to our lab blog!"
 excerpt: "We will share interesting information about DI²Lab here!"
 ---
